@@ -1,0 +1,27 @@
+{
+  "name": "angular-autogrow",
+  "version": "0.1.0",
+  "description": "Angular 2+ directive for auto-grow / auto-resize of textarea elements on typing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evyros/angular-autogrow.git"
+  },
+  "keywords": [
+    "autogrow",
+    "textarea",
+    "autosize",
+    "angular 2",
+    "elastic",
+    "expand"
+  ],
+  "author": "Evyatar Rosner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evyros/angular-autogrow/issues"
+  },
+  "homepage": "https://github.com/evyros/angular-autogrow#readme"
+}
